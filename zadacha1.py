@@ -1,0 +1,5 @@
+a = float(input("индуктивность = "))
+b = float(input("сила тока = "))
+c = (a*(pow(b,2)))*(1/2)
+print (c)
+input()
